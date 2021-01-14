@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "226187500290-9sjfjrg3qgdcln0sqfcanii7u0rf3o5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wodality.seams",
+            "certificate_hash": "e9586480a3d27ca5f45dbb512a1be274f7c23b65"
+          }
+        },
+        {
           "client_id": "226187500290-qs9l6msb0shof8r72ia2iu5k2qo7jjg2.apps.googleusercontent.com",
           "client_type": 3
         }

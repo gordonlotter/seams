@@ -24,10 +24,27 @@ dependencies:
   flutter:
     sdk: flutter
   # A Flutter plugin to use the Firebase Core API, which enables connecting to multiple Firebase apps.
-  firebase_core: "^0.6.0"
+  firebase_core: "^0.7.0"
   # A Flutter plugin to use the Firebase Authentication API.
-  firebase_auth: "^0.19.0"
-
+  firebase_auth: "^0.20.0"
+  # A Flutter plugin to use the Firebase Analytics API.
+  firebase_analytics: "^7.0.1"
+  # A Flutter plugin to sign in using Google API.
+  google_sign_in: "^4.5.1
+  "# A Flutter plugin to use the Firebase Firestore API.
+  cloud_firestore: ^0.16.0
+  #Equatable overrides == and hashCode for you so you don't have to waste your time writing lots of boilerplate code.
+  equatable: ^1.2.5
+  #This package defines annotations that can be used by the tools that are shipped with the Dart SDK.
+  meta: ^1.2.4
+  #The Font Awesome Icon pack available as set of Flutter Icons.
+  font_awesome_flutter: ^8.11.0
+  #A dart package that helps implement the BLoC pattern.
+  flutter_bloc: ^6.1.1
+  #A unified form representation in Dart. Formz aims to simplify form representation and validation in a generic way.
+  formz: ^0.3.2
+  #The google_fonts package for Flutter allows you to easily use any of the 977 fonts (and their variants) from fonts.google.com in your Flutter app.
+  google_fonts: ^1.1.1
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.1
